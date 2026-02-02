@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "MAFLab",
+    "slug": "maflab",
+    "version": "1.0.0",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eef6ff"
+    },
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "com.maflab.maflab",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#eef6ff"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.maflab.maflab",
+      "buildNumber": "1.0.0"
+    },
+    "extra": {
+      "dataFiles": [
+        "./Hematology.json",
+        "./Biochemistry.json",
+        "./Microbiology.json",
+        "./Immunology.json",
+        "./Questions.json",
+        "./answered.json"
+      ]
+    }
+  }
+}
