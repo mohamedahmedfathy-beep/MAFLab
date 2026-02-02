@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MAFLab",
+    "slug": "maflab",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eef6ff"
+    },
+    "android": {
+      "package": "com.maflab.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.maflab.app"
+    }
+  }
+}
