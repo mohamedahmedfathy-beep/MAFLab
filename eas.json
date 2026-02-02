@@ -1,0 +1,11 @@
+{
+  "build": {
+    "production": {
+      "releaseChannel": "production",
+      "distribution": "store",
+      "android": {
+        "buildType": "app-bundle"
+      }
+    }
+  }
+}
