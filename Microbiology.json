@@ -1,0 +1,1338 @@
+{
+   "Microbiology":[
+      {
+         "name":"Urine Culture and Sensitivity",
+         "overview":"Detects and identifies bacteria or fungi causing urinary tract infection and determines antibiotic susceptibility.",
+         "organ":"Urinary tract",
+         "sample":"Midstream clean-catch urine or catheterized specimen",
+         "procedure":"Inoculation on culture media (e.g., blood agar, MacConkey), incubation, identification, and antibiotic testing",
+         "high_conditions":[
+            "UTI",
+            "Pyelonephritis",
+            "Asymptomatic bacteriuria"
+         ],
+         "low_conditions":[
+            "No infection",
+            "Contamination"
+         ]
+      },
+      {
+         "name":"Urine Gram Stain",
+         "overview":"Rapid microscopic test to detect bacteria or yeast in urine before culture results.",
+         "organ":"Urinary tract",
+         "sample":"Fresh urine sediment",
+         "procedure":"Centrifugation, smear, Gram staining, and microscopy",
+         "high_conditions":[
+            "Bacteriuria",
+            "Candiduria"
+         ],
+         "low_conditions":[
+            "Sterile urine",
+            "Low bacterial count"
+         ]
+      },
+      {
+         "name":"Urine Microscopy (WBC, RBC, Casts)",
+         "overview":"Microscopic examination of urine sediment for cells, casts, and crystals to assess renal and urinary health.",
+         "organ":"Kidneys / Urinary tract",
+         "sample":"Fresh urine",
+         "procedure":"Centrifugation and microscopic analysis",
+         "high_conditions":[
+            "Pyuria (WBC)",
+            "Hematuria (RBC)",
+            "Casts (renal pathology)"
+         ],
+         "low_conditions":[
+            "Normal urine sediment"
+         ]
+      },
+      {
+         "name":"Urine Nitrite Test",
+         "overview":"Detects nitrite-producing bacteria (e.g., E. coli) in urine dipstick screening.",
+         "organ":"Urinary tract",
+         "sample":"Fresh urine",
+         "procedure":"Dipstick chemical reaction",
+         "high_conditions":[
+            "Gram-negative UTI"
+         ],
+         "low_conditions":[
+            "No infection",
+            "Non-nitrite-producing bacteria"
+         ]
+      },
+      {
+         "name":"Urine Leukocyte Esterase",
+         "overview":"Enzyme from WBCs indicating pyuria in UTI.",
+         "organ":"Urinary tract",
+         "sample":"Fresh urine",
+         "procedure":"Dipstick enzymatic reaction",
+         "high_conditions":[
+            "UTI",
+            "Pyelonephritis",
+            "Interstitial cystitis"
+         ],
+         "low_conditions":[
+            "No inflammation"
+         ]
+      },
+      {
+         "name":"Stool Culture",
+         "overview":"Identifies pathogenic bacteria causing gastroenteritis (e.g., Salmonella, Shigella, Campylobacter).",
+         "organ":"Gastrointestinal tract",
+         "sample":"Fresh stool in transport medium",
+         "procedure":"Culture on selective media (e.g., XLD, Campy-BAP), biochemical ID",
+         "high_conditions":[
+            "Bacterial gastroenteritis",
+            "Food poisoning"
+         ],
+         "low_conditions":[
+            "Normal flora",
+            "Viral diarrhea"
+         ]
+      },
+      {
+         "name":"Stool Ova and Parasite (O&P) Examination",
+         "overview":"Microscopic detection of intestinal parasites and their eggs.",
+         "organ":"Gastrointestinal tract",
+         "sample":"Fresh or preserved stool",
+         "procedure":"Concentration, trichrome stain, and microscopy",
+         "high_conditions":[
+            "Giardiasis",
+            "Amebiasis",
+            "Helminth infections"
+         ],
+         "low_conditions":[
+            "No parasitic infection"
+         ]
+      },
+      {
+         "name":"Clostridioides difficile Toxin A/B EIA",
+         "overview":"Detects toxins produced by C. difficile in antibiotic-associated diarrhea.",
+         "organ":"Colon",
+         "sample":"Unformed stool",
+         "procedure":"Enzyme immunoassay (EIA) for toxins A and B",
+         "high_conditions":[
+            "C. difficile infection (CDI)"
+         ],
+         "low_conditions":[
+            "No CDI",
+            "Colonization without toxin production"
+         ]
+      },
+      {
+         "name":"C. difficile GDH Antigen Test",
+         "overview":"Screening test for glutamate dehydrogenase (GDH), a highly sensitive marker for C. difficile.",
+         "organ":"Colon",
+         "sample":"Unformed stool",
+         "procedure":"Immunoassay for GDH antigen",
+         "high_conditions":[
+            "C. difficile presence (colonization or infection)"
+         ],
+         "low_conditions":[
+            "Absence of C. difficile"
+         ]
+      },
+      {
+         "name":"C. difficile PCR (tcdB gene)",
+         "overview":"Molecular test detecting toxin gene (tcdB) of C. difficile; highly sensitive and specific.",
+         "organ":"Colon",
+         "sample":"Unformed stool",
+         "procedure":"Real-time PCR for tcdB gene",
+         "high_conditions":[
+            "Toxigenic C. difficile infection"
+         ],
+         "low_conditions":[
+            "No toxigenic C. difficile"
+         ]
+      },
+      {
+         "name":"Rotavirus Antigen (Stool)",
+         "overview":"Detects rotavirus, a common cause of viral gastroenteritis in children.",
+         "organ":"Small intestine",
+         "sample":"Stool",
+         "procedure":"EIA or rapid immunochromatographic test",
+         "high_conditions":[
+            "Rotavirus gastroenteritis"
+         ],
+         "low_conditions":[
+            "Other causes of diarrhea"
+         ]
+      },
+      {
+         "name":"Adenovirus Antigen (Stool)",
+         "overview":"Detects adenovirus serotypes 40/41 causing pediatric gastroenteritis.",
+         "organ":"Gastrointestinal tract",
+         "sample":"Stool",
+         "procedure":"EIA or PCR",
+         "high_conditions":[
+            "Adenoviral gastroenteritis"
+         ],
+         "low_conditions":[
+            "Non-adenoviral diarrhea"
+         ]
+      },
+      {
+         "name":"Norovirus PCR (Stool)",
+         "overview":"Molecular detection of norovirus, the leading cause of viral gastroenteritis outbreaks.",
+         "organ":"Small intestine",
+         "sample":"Stool",
+         "procedure":"RT-PCR",
+         "high_conditions":[
+            "Norovirus infection"
+         ],
+         "low_conditions":[
+            "Other pathogens"
+         ]
+      },
+      {
+         "name":"Fecal Calprotectin",
+         "overview":"Marker of neutrophil activity in the gut; used to differentiate IBD from IBS.",
+         "organ":"Colon",
+         "sample":"Stool",
+         "procedure":"ELISA or quantitative immunoassay",
+         "high_conditions":[
+            "Inflammatory bowel disease (IBD)",
+            "Colorectal cancer"
+         ],
+         "low_conditions":[
+            "Irritable bowel syndrome (IBS)",
+            "Functional diarrhea"
+         ]
+      },
+      {
+         "name":"Fecal Occult Blood Test (FOBT)",
+         "overview":"Detects hidden blood in stool for colorectal cancer screening.",
+         "organ":"Colon",
+         "sample":"Stool",
+         "procedure":"Guaiac-based chemical reaction or immunochemical test (FIT)",
+         "high_conditions":[
+            "Colorectal cancer",
+            "Polyps",
+            "GI bleeding"
+         ],
+         "low_conditions":[
+            "No bleeding",
+            "Negative screening"
+         ]
+      },
+      {
+         "name":"Fecal Immunochemical Test (FIT)",
+         "overview":"Specific detection of human hemoglobin in stool for CRC screening.",
+         "organ":"Colon",
+         "sample":"Stool",
+         "procedure":"Antibody-based immunoassay",
+         "high_conditions":[
+            "Colorectal neoplasia",
+            "Lower GI bleeding"
+         ],
+         "low_conditions":[
+            "No lower GI bleeding"
+         ]
+      },
+      {
+         "name":"Stool Fat Qualitative (Sudan Stain)",
+         "overview":"Detects fat globules in stool indicating malabsorption.",
+         "organ":"Small intestine / Pancreas",
+         "sample":"Stool",
+         "procedure":"Microscopic examination after Sudan III staining",
+         "high_conditions":[
+            "Pancreatic insufficiency",
+            "Celiac disease",
+            "Biliary obstruction"
+         ],
+         "low_conditions":[
+            "Normal fat absorption"
+         ]
+      },
+      {
+         "name":"Quantitative Fecal Fat (72-hour collection)",
+         "overview":"Gold standard for diagnosing steatorrhea.",
+         "organ":"Small intestine / Pancreas",
+         "sample":"72-hour stool collection",
+         "procedure":"Chemical quantification of fat excretion",
+         "high_conditions":[
+            ">7 g/day: Steatorrhea due to pancreatic, biliary, or mucosal disease"
+         ],
+         "low_conditions":[
+            "<7 g/day: Normal fat absorption"
+         ]
+      },
+      {
+         "name":"Blood Culture (Aerobic and Anaerobic)",
+         "overview":"Detects bacteremia or fungemia by culturing blood in broth media.",
+         "organ":"Bloodstream",
+         "sample":"Peripheral venipuncture (aerobic + anaerobic bottles)",
+         "procedure":"Automated blood culture system with subculture and ID",
+         "high_conditions":[
+            "Sepsis",
+            "Endocarditis",
+            "Osteomyelitis"
+         ],
+         "low_conditions":[
+            "No bloodstream infection"
+         ]
+      },
+      {
+         "name":"Blood Culture Gram Stain",
+         "overview":"Rapid preliminary ID of organisms in positive blood cultures.",
+         "organ":"Bloodstream",
+         "sample":"Positive blood culture broth",
+         "procedure":"Gram staining and microscopy",
+         "high_conditions":[
+            "Gram-positive cocci",
+            "Gram-negative rods",
+            "Yeast"
+         ],
+         "low_conditions":[
+            "No organisms seen"
+         ]
+      },
+      {
+         "name":"Sputum Culture",
+         "overview":"Identifies pathogens causing pneumonia or bronchitis.",
+         "organ":"Lungs",
+         "sample":"Deep cough sputum (not saliva)",
+         "procedure":"Culture on blood/MacConkey agar, ID, and sensitivity",
+         "high_conditions":[
+            "Pneumonia",
+            "Bronchiectasis exacerbation"
+         ],
+         "low_conditions":[
+            "Oropharyngeal contamination",
+            "No lower respiratory infection"
+         ]
+      },
+      {
+         "name":"Sputum Gram Stain",
+         "overview":"Assesses quality of sputum and detects predominant organisms.",
+         "organ":"Lungs",
+         "sample":"Sputum",
+         "procedure":"Microscopy for WBCs, epithelial cells, and bacteria",
+         "high_conditions":[
+            ">25 WBCs, <10 epithelial cells/low-power field = good quality"
+         ],
+         "low_conditions":[
+            "Saliva contamination (>10 epithelial cells)"
+         ]
+      },
+      {
+         "name":"Acid-Fast Bacilli (AFB) Smear (Ziehl-Neelsen)",
+         "overview":"Detects mycobacteria (e.g., M. tuberculosis) in sputum or other samples.",
+         "organ":"Lungs",
+         "sample":"Sputum, BAL, tissue",
+         "procedure":"Carbolfuchsin staining and acid-alcohol decolorization",
+         "high_conditions":[
+            "Tuberculosis",
+            "Nontuberculous mycobacteria"
+         ],
+         "low_conditions":[
+            "No AFB seen"
+         ]
+      },
+      {
+         "name":"AFB Culture (Löwenstein-Jensen or MGIT)",
+         "overview":"Gold standard for TB diagnosis; slow-growing but highly specific.",
+         "organ":"Lungs",
+         "sample":"Sputum, tissue, CSF",
+         "procedure":"Culture on solid (LJ) or liquid (MGIT) media",
+         "high_conditions":[
+            "Active tuberculosis"
+         ],
+         "low_conditions":[
+            "No mycobacterial growth"
+         ]
+      },
+      {
+         "name":"TB PCR (Xpert MTB/RIF)",
+         "overview":"Rapid molecular test for M. tuberculosis and rifampin resistance.",
+         "organ":"Lungs",
+         "sample":"Sputum",
+         "procedure":"Automated real-time PCR",
+         "high_conditions":[
+            "TB with or without rifampin resistance"
+         ],
+         "low_conditions":[
+            "No TB detected"
+         ]
+      },
+      {
+         "name":"Throat Culture",
+         "overview":"Detects Group A Streptococcus (GAS) in pharyngitis.",
+         "organ":"Pharynx",
+         "sample":"Throat swab",
+         "procedure":"Culture on blood agar with bacitracin disk",
+         "high_conditions":[
+            "Strep throat"
+         ],
+         "low_conditions":[
+            "Viral pharyngitis"
+         ]
+      },
+      {
+         "name":"Rapid Strep Antigen Test",
+         "overview":"Point-of-care test for GAS antigen.",
+         "organ":"Pharynx",
+         "sample":"Throat swab",
+         "procedure":"Lateral flow immunoassay",
+         "high_conditions":[
+            "Group A Strep infection"
+         ],
+         "low_conditions":[
+            "Negative (may require culture confirmation)"
+         ]
+      },
+      {
+         "name":"CSF Culture",
+         "overview":"Detects bacteria, fungi, or viruses in cerebrospinal fluid.",
+         "organ":"Central nervous system",
+         "sample":"CSF (lumbar puncture)",
+         "procedure":"Culture on blood/chocolate agar, India ink, cryptococcal Ag",
+         "high_conditions":[
+            "Bacterial meningitis",
+            "Cryptococcal meningitis"
+         ],
+         "low_conditions":[
+            "Aseptic meningitis",
+            "Normal CSF"
+         ]
+      },
+      {
+         "name":"CSF Gram Stain",
+         "overview":"Rapid diagnosis of bacterial meningitis.",
+         "organ":"Central nervous system",
+         "sample":"CSF",
+         "procedure":"Microscopy after Gram staining",
+         "high_conditions":[
+            "Gram-positive diplococci (S. pneumoniae)",
+            "Gram-negative diplococci (N. meningitidis)"
+         ],
+         "low_conditions":[
+            "No organisms seen"
+         ]
+      },
+      {
+         "name":"Cryptococcal Antigen (CSF or serum)",
+         "overview":"Detects capsular polysaccharide of Cryptococcus neoformans.",
+         "organ":"Central nervous system",
+         "sample":"CSF or serum",
+         "procedure":"Latex agglutination or LFA",
+         "high_conditions":[
+            "Cryptococcal meningitis"
+         ],
+         "low_conditions":[
+            "No cryptococcal infection"
+         ]
+      },
+      {
+         "name":"HSV PCR (CSF)",
+         "overview":"Gold standard for herpes simplex encephalitis.",
+         "organ":"Central nervous system",
+         "sample":"CSF",
+         "procedure":"PCR for HSV DNA",
+         "high_conditions":[
+            "Herpes encephalitis"
+         ],
+         "low_conditions":[
+            "Other causes of encephalitis"
+         ]
+      },
+      {
+         "name":"Enterovirus PCR (CSF)",
+         "overview":"Detects enteroviruses in aseptic meningitis.",
+         "organ":"Central nervous system",
+         "sample":"CSF",
+         "procedure":"RT-PCR",
+         "high_conditions":[
+            "Enteroviral meningitis"
+         ],
+         "low_conditions":[
+            "Bacterial or other viral causes"
+         ]
+      },
+      {
+         "name":"Wound Culture",
+         "overview":"Identifies pathogens in skin and soft tissue infections.",
+         "organ":"Skin / Soft tissue",
+         "sample":"Aspirate or deep swab (not superficial)",
+         "procedure":"Culture on blood/MacConkey agar",
+         "high_conditions":[
+            "Cellulitis",
+            "Abscess",
+            "Diabetic foot infection"
+         ],
+         "low_conditions":[
+            "Colonization without infection"
+         ]
+      },
+      {
+         "name":"Anaerobic Culture",
+         "overview":"Detects obligate anaerobes (e.g., Bacteroides, Clostridium).",
+         "organ":"Deep tissues, abscesses",
+         "sample":"Aspirate in anaerobic transport",
+         "procedure":"Culture in anaerobic chamber",
+         "high_conditions":[
+            "Intra-abdominal abscess",
+            "Gas gangrene"
+         ],
+         "low_conditions":[
+            "Aerobic-only infection"
+         ]
+      },
+      {
+         "name":"Fungal Culture",
+         "overview":"Detects yeasts and molds from clinical specimens.",
+         "organ":"Various (skin, blood, respiratory)",
+         "sample":"Tissue, sputum, blood",
+         "procedure":"Culture on Sabouraud dextrose agar",
+         "high_conditions":[
+            "Candidiasis",
+            "Aspergillosis",
+            "Histoplasmosis"
+         ],
+         "low_conditions":[
+            "No fungal growth"
+         ]
+      },
+      {
+         "name":"KOH Mount (Skin/Nail)",
+         "overview":"Rapid detection of fungal hyphae in dermatophytosis.",
+         "organ":"Skin / Nails",
+         "sample":"Skin scraping, nail clippings",
+         "procedure":"10–20% KOH preparation and microscopy",
+         "high_conditions":[
+            "Tinea corporis",
+            "Onychomycosis"
+         ],
+         "low_conditions":[
+            "Non-fungal rash"
+         ]
+      },
+      {
+         "name":"India Ink Preparation (CSF)",
+         "overview":"Detects encapsulated Cryptococcus in CSF.",
+         "organ":"Central nervous system",
+         "sample":"CSF",
+         "procedure":"Mix CSF with India ink and examine microscopically",
+         "high_conditions":[
+            "Cryptococcal meningitis"
+         ],
+         "low_conditions":[
+            "No encapsulated yeast"
+         ]
+      },
+      {
+         "name":"Syphilis RPR (Rapid Plasma Reagin)",
+         "overview":"Non-treponemal screening test for syphilis.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Flocculation test for cardiolipin antibodies",
+         "high_conditions":[
+            "Primary, secondary, or latent syphilis"
+         ],
+         "low_conditions":[
+            "No syphilis",
+            "Tertiary syphilis (may be negative)"
+         ]
+      },
+      {
+         "name":"Syphilis FTA-ABS",
+         "overview":"Confirmatory treponemal test for syphilis.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Fluorescent treponemal antibody absorption test",
+         "high_conditions":[
+            "Past or present syphilis"
+         ],
+         "low_conditions":[
+            "No syphilis exposure"
+         ]
+      },
+      {
+         "name":"HIV Antibody/Antigen (4th gen)",
+         "overview":"Detects HIV p24 antigen and antibodies for early diagnosis.",
+         "organ":"Blood",
+         "sample":"Serum or plasma",
+         "procedure":"Immunoassay",
+         "high_conditions":[
+            "Acute or chronic HIV infection"
+         ],
+         "low_conditions":[
+            "HIV-negative"
+         ]
+      },
+      {
+         "name":"Hepatitis B Surface Antigen (HBsAg)",
+         "overview":"Marker of active HBV infection.",
+         "organ":"Liver",
+         "sample":"Serum",
+         "procedure":"EIA or CLIA",
+         "high_conditions":[
+            "Acute or chronic hepatitis B"
+         ],
+         "low_conditions":[
+            "No HBV infection"
+         ]
+      },
+      {
+         "name":"Hepatitis C Antibody (Anti-HCV)",
+         "overview":"Screening test for HCV exposure.",
+         "organ":"Liver",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "HCV infection (past or present)"
+         ],
+         "low_conditions":[
+            "No HCV exposure"
+         ]
+      },
+      {
+         "name":"HCV RNA PCR",
+         "overview":"Confirms active HCV infection and quantifies viral load.",
+         "organ":"Liver",
+         "sample":"Plasma",
+         "procedure":"RT-PCR",
+         "high_conditions":[
+            "Active hepatitis C"
+         ],
+         "low_conditions":[
+            "Cleared HCV infection"
+         ]
+      },
+      {
+         "name":"EBV VCA IgM",
+         "overview":"Indicates acute Epstein-Barr virus infection.",
+         "organ":"Lymphoid tissue",
+         "sample":"Serum",
+         "procedure":"EIA or IFA",
+         "high_conditions":[
+            "Infectious mononucleosis"
+         ],
+         "low_conditions":[
+            "Past EBV infection or no infection"
+         ]
+      },
+      {
+         "name":"CMV IgM",
+         "overview":"Indicates acute cytomegalovirus infection.",
+         "organ":"Multiple organs",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Primary CMV infection",
+            "Reactivation in immunocompromised"
+         ],
+         "low_conditions":[
+            "Past infection only"
+         ]
+      },
+      {
+         "name":"Toxoplasma IgG/IgM",
+         "overview":"Diagnoses acute or past Toxoplasma gondii infection.",
+         "organ":"Brain, eyes, fetus",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Acute toxoplasmosis (IgM+)",
+            "Immunity (IgG+)"
+         ],
+         "low_conditions":[
+            "No exposure"
+         ]
+      },
+      {
+         "name":"Rubella IgG",
+         "overview":"Confirms immunity to rubella (vaccination or past infection).",
+         "organ":"Systemic",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Immunity"
+         ],
+         "low_conditions":[
+            "Susceptible to rubella"
+         ]
+      },
+      {
+         "name":"Measles IgM",
+         "overview":"Diagnoses acute measles infection.",
+         "organ":"Respiratory tract",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Acute measles"
+         ],
+         "low_conditions":[
+            "Immunity or no infection"
+         ]
+      },
+      {
+         "name":"Varicella-Zoster Virus (VZV) IgM",
+         "overview":"Indicates acute chickenpox or shingles.",
+         "organ":"Skin, nerves",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Primary VZV infection or reactivation"
+         ],
+         "low_conditions":[
+            "Past infection only"
+         ]
+      },
+      {
+         "name":"Parvovirus B19 IgM",
+         "overview":"Diagnoses acute parvovirus infection (e.g., fifth disease).",
+         "organ":"Bone marrow, joints",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Acute parvovirus B19 infection"
+         ],
+         "low_conditions":[
+            "Past infection"
+         ]
+      },
+      {
+         "name":"Legionella Urinary Antigen",
+         "overview":"Detects L. pneumophila serogroup 1 antigen in urine.",
+         "organ":"Lungs",
+         "sample":"Urine",
+         "procedure":"EIA or lateral flow",
+         "high_conditions":[
+            "Legionnaires' disease"
+         ],
+         "low_conditions":[
+            "Other pneumonia causes"
+         ]
+      },
+      {
+         "name":"Pneumococcal Urinary Antigen",
+         "overview":"Detects S. pneumoniae antigen in urine for pneumonia diagnosis.",
+         "organ":"Lungs",
+         "sample":"Urine",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Pneumococcal pneumonia"
+         ],
+         "low_conditions":[
+            "Non-pneumococcal pneumonia"
+         ]
+      },
+      {
+         "name":"Helicobacter pylori Urea Breath Test",
+         "overview":"Non-invasive test for active H. pylori infection.",
+         "organ":"Stomach",
+         "sample":"Exhaled breath",
+         "procedure":"Isotope-labeled urea ingestion and breath analysis",
+         "high_conditions":[
+            "Active H. pylori infection"
+         ],
+         "low_conditions":[
+            "No infection or post-eradication"
+         ]
+      },
+      {
+         "name":"H. pylori Stool Antigen",
+         "overview":"Detects H. pylori antigen in stool.",
+         "organ":"Stomach",
+         "sample":"Stool",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Active H. pylori infection"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"H. pylori Serology (IgG)",
+         "overview":"Indicates past or present H. pylori exposure (not for active infection).",
+         "organ":"Stomach",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "H. pylori exposure"
+         ],
+         "low_conditions":[
+            "No exposure"
+         ]
+      },
+      {
+         "name":"Malaria Thick and Thin Smear",
+         "overview":"Gold standard for malaria diagnosis and species identification.",
+         "organ":"Blood",
+         "sample":"Peripheral blood smear",
+         "procedure":"Giemsa staining and microscopy",
+         "high_conditions":[
+            "Plasmodium falciparum, vivax, ovale, malariae"
+         ],
+         "low_conditions":[
+            "No malaria parasites"
+         ]
+      },
+      {
+         "name":"Malaria Rapid Diagnostic Test (RDT)",
+         "overview":"Detects Plasmodium antigens (e.g., HRP-2, pLDH).",
+         "organ":"Blood",
+         "sample":"Whole blood",
+         "procedure":"Lateral flow immunoassay",
+         "high_conditions":[
+            "Malaria infection"
+         ],
+         "low_conditions":[
+            "No malaria"
+         ]
+      },
+      {
+         "name":"Dengue NS1 Antigen",
+         "overview":"Early marker of dengue virus infection (days 1–5).",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"EIA or rapid test",
+         "high_conditions":[
+            "Acute dengue fever"
+         ],
+         "low_conditions":[
+            "Other febrile illnesses"
+         ]
+      },
+      {
+         "name":"Dengue IgM/IgG",
+         "overview":"Serological confirmation of dengue (IgM: acute; IgG: past infection).",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Dengue infection"
+         ],
+         "low_conditions":[
+            "Non-dengue fever"
+         ]
+      },
+      {
+         "name":"Chikungunya IgM",
+         "overview":"Diagnoses acute chikungunya virus infection.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Chikungunya fever"
+         ],
+         "low_conditions":[
+            "Other arboviral infections"
+         ]
+      },
+      {
+         "name":"Zika Virus RT-PCR",
+         "overview":"Detects Zika virus RNA in serum or urine during acute infection.",
+         "organ":"Blood / Urine",
+         "sample":"Serum or urine",
+         "procedure":"RT-PCR",
+         "high_conditions":[
+            "Acute Zika infection"
+         ],
+         "low_conditions":[
+            "No Zika virus"
+         ]
+      },
+      {
+         "name":"Brucella Serology (SAT, ELISA)",
+         "overview":"Diagnoses brucellosis (undulant fever).",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Standard agglutination test (SAT) or ELISA",
+         "high_conditions":[
+            "Brucellosis"
+         ],
+         "low_conditions":[
+            "No Brucella infection"
+         ]
+      },
+      {
+         "name":"Leptospira MAT (Microscopic Agglutination Test)",
+         "overview":"Gold standard serological test for leptospirosis.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Agglutination of live Leptospira serovars",
+         "high_conditions":[
+            "Leptospirosis"
+         ],
+         "low_conditions":[
+            "Other febrile illnesses"
+         ]
+      },
+      {
+         "name":"Rickettsia IgG/IgM (IFA)",
+         "overview":"Diagnoses spotted fever or typhus group rickettsiosis.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Indirect immunofluorescence assay (IFA)",
+         "high_conditions":[
+            "Rickettsial infection"
+         ],
+         "low_conditions":[
+            "Non-rickettsial illness"
+         ]
+      },
+      {
+         "name":"Mycoplasma pneumoniae IgM",
+         "overview":"Indicates acute Mycoplasma pneumonia.",
+         "organ":"Lungs",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Atypical pneumonia"
+         ],
+         "low_conditions":[
+            "Other pneumonia"
+         ]
+      },
+      {
+         "name":"Chlamydia trachomatis NAAT (Urine or Swab)",
+         "overview":"Nucleic acid amplification test for genital Chlamydia.",
+         "organ":"Genitourinary tract",
+         "sample":"Urine, endocervical, or urethral swab",
+         "procedure":"PCR or TMA",
+         "high_conditions":[
+            "Chlamydia infection"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Neisseria gonorrhoeae NAAT",
+         "overview":"Molecular detection of gonorrhea.",
+         "organ":"Genitourinary tract",
+         "sample":"Urine, swab",
+         "procedure":"PCR or TMA",
+         "high_conditions":[
+            "Gonorrhea"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Trichomonas vaginalis Wet Mount",
+         "overview":"Microscopic detection of motile trichomonads in vaginal discharge.",
+         "organ":"Vagina",
+         "sample":"Vaginal swab in saline",
+         "procedure":"Wet mount microscopy",
+         "high_conditions":[
+            "Trichomoniasis"
+         ],
+         "low_conditions":[
+            "Normal flora"
+         ]
+      },
+      {
+         "name":"Trichomonas NAAT",
+         "overview":"Highly sensitive molecular test for Trichomonas.",
+         "organ":"Genitourinary tract",
+         "sample":"Urine, vaginal, or endocervical swab",
+         "procedure":"PCR or TMA",
+         "high_conditions":[
+            "Trichomoniasis"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Bacterial Vaginosis (Clue Cells, Whiff Test, pH)",
+         "overview":"Diagnosis of BV using Amsel criteria.",
+         "organ":"Vagina",
+         "sample":"Vaginal discharge",
+         "procedure":"Wet mount (clue cells), KOH whiff test, pH >4.5",
+         "high_conditions":[
+            "Bacterial vaginosis"
+         ],
+         "low_conditions":[
+            "Normal vaginal flora",
+            "Yeast infection"
+         ]
+      },
+      {
+         "name":"Vaginal Yeast Culture",
+         "overview":"Identifies Candida species in vulvovaginal candidiasis.",
+         "organ":"Vagina",
+         "sample":"Vaginal swab",
+         "procedure":"Culture on Sabouraud agar",
+         "high_conditions":[
+            "Candidiasis"
+         ],
+         "low_conditions":[
+            "No yeast growth"
+         ]
+      },
+      {
+         "name":"HPV DNA Test (High-Risk Types)",
+         "overview":"Detects oncogenic HPV types (e.g., 16, 18) for cervical cancer screening.",
+         "organ":"Cervix",
+         "sample":"Cervical swab",
+         "procedure":"PCR or hybrid capture",
+         "high_conditions":[
+            "High-risk HPV infection"
+         ],
+         "low_conditions":[
+            "No high-risk HPV"
+         ]
+      },
+      {
+         "name":"Pap Smear (Cervical Cytology)",
+         "overview":"Screens for cervical dysplasia and cancer.",
+         "organ":"Cervix",
+         "sample":"Cervical cells",
+         "procedure":"Liquid-based cytology and Bethesda classification",
+         "high_conditions":[
+            "ASC-US, LSIL, HSIL, cancer"
+         ],
+         "low_conditions":[
+            "Negative for intraepithelial lesion"
+         ]
+      },
+      {
+         "name":"Ascitic Fluid Culture",
+         "overview":"Diagnoses spontaneous bacterial peritonitis (SBP).",
+         "organ":"Peritoneal cavity",
+         "sample":"Ascitic fluid (bedside inoculation into blood culture bottles)",
+         "procedure":"Culture and cell count",
+         "high_conditions":[
+            "SBP (PMN >250 cells/µL)"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Synovial Fluid Culture",
+         "overview":"Detects septic arthritis.",
+         "organ":"Joints",
+         "sample":"Joint aspirate",
+         "procedure":"Culture and Gram stain",
+         "high_conditions":[
+            "Septic arthritis"
+         ],
+         "low_conditions":[
+            "Crystal arthropathy",
+            "Osteoarthritis"
+         ]
+      },
+      {
+         "name":"Pleural Fluid Culture",
+         "overview":"Identifies pathogens in empyema or parapneumonic effusion.",
+         "organ":"Pleural cavity",
+         "sample":"Pleural fluid",
+         "procedure":"Culture and pH/glucose analysis",
+         "high_conditions":[
+            "Empyema"
+         ],
+         "low_conditions":[
+            "Transudative effusion"
+         ]
+      },
+      {
+         "name":"Pericardial Fluid Culture",
+         "overview":"Detects infection in pericarditis or tamponade.",
+         "organ":"Pericardium",
+         "sample":"Pericardial fluid",
+         "procedure":"Culture and cytology",
+         "high_conditions":[
+            "Bacterial pericarditis"
+         ],
+         "low_conditions":[
+            "Viral or autoimmune pericarditis"
+         ]
+      },
+      {
+         "name":"Antibiotic Susceptibility Testing (AST)",
+         "overview":"Determines effective antibiotics against isolated pathogens.",
+         "organ":"Varies by pathogen",
+         "sample":"Pure bacterial/fungal isolate",
+         "procedure":"Disk diffusion (Kirby-Bauer) or MIC (broth microdilution)",
+         "high_conditions":[
+            "Resistant to certain antibiotics"
+         ],
+         "low_conditions":[
+            "Susceptible to tested antibiotics"
+         ]
+      },
+      {
+         "name":"MRSA Screening (Nasal PCR or Culture)",
+         "overview":"Detects methicillin-resistant S. aureus colonization.",
+         "organ":"Nose",
+         "sample":"Nasal swab",
+         "procedure":"PCR for mecA/mecC or culture on MRSA-selective agar",
+         "high_conditions":[
+            "MRSA colonization"
+         ],
+         "low_conditions":[
+            "MSSA or no S. aureus"
+         ]
+      },
+      {
+         "name":"VRE Screening (Rectal Swab)",
+         "overview":"Detects vancomycin-resistant Enterococcus colonization.",
+         "organ":"GI tract",
+         "sample":"Rectal swab",
+         "procedure":"Culture on VRE-selective agar or PCR",
+         "high_conditions":[
+            "VRE colonization"
+         ],
+         "low_conditions":[
+            "VSE or no Enterococcus"
+         ]
+      },
+      {
+         "name":"ESBL Screening",
+         "overview":"Detects extended-spectrum beta-lactamase-producing Enterobacteriaceae.",
+         "organ":"GI tract, urine, blood",
+         "sample":"Isolate or rectal swab",
+         "procedure":"Phenotypic tests (e.g., double-disk synergy) or PCR",
+         "high_conditions":[
+            "ESBL-producing E. coli or Klebsiella"
+         ],
+         "low_conditions":[
+            "Non-ESBL producers"
+         ]
+      },
+      {
+         "name":"Carbapenemase Testing (mCIM, PCR)",
+         "overview":"Detects carbapenem-resistant organisms (e.g., KPC, NDM).",
+         "organ":"Various",
+         "sample":"Isolate",
+         "procedure":"Modified carbapenem inactivation method (mCIM) or PCR",
+         "high_conditions":[
+            "Carbapenem-resistant Enterobacteriaceae (CRE)"
+         ],
+         "low_conditions":[
+            "Carbapenem-susceptible"
+         ]
+      },
+      {
+         "name":"Fungal Beta-D-Glucan",
+         "overview":"Pan-fungal marker for invasive candidiasis, aspergillosis, Pneumocystis.",
+         "organ":"Blood",
+         "sample":"Serum",
+         "procedure":"Colorimetric assay",
+         "high_conditions":[
+            "Invasive fungal infection"
+         ],
+         "low_conditions":[
+            "No fungal infection (false positives: IVIG, gauze)"
+         ]
+      },
+      {
+         "name":"Aspergillus Galactomannan",
+         "overview":"Detects Aspergillus antigen in serum or BAL.",
+         "organ":"Lungs",
+         "sample":"Serum or BAL",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Invasive aspergillosis"
+         ],
+         "low_conditions":[
+            "No aspergillosis"
+         ]
+      },
+      {
+         "name":"Pneumocystis jirovecii PCR (BAL)",
+         "overview":"Detects P. jirovecii DNA in immunocompromised patients with pneumonia.",
+         "organ":"Lungs",
+         "sample":"BAL fluid",
+         "procedure":"PCR",
+         "high_conditions":[
+            "Pneumocystis pneumonia (PCP)"
+         ],
+         "low_conditions":[
+            "Other pneumonia"
+         ]
+      },
+      {
+         "name":"Strongyloides stercoralis Serology",
+         "overview":"Detects antibodies in strongyloidiasis (stool exams often negative).",
+         "organ":"Intestines",
+         "sample":"Serum",
+         "procedure":"EIA",
+         "high_conditions":[
+            "Strongyloidiasis"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Schistosoma Serology",
+         "overview":"Diagnoses schistosomiasis in travelers or immigrants.",
+         "organ":"Liver, bladder, intestines",
+         "sample":"Serum",
+         "procedure":"EIA or IFA",
+         "high_conditions":[
+            "Schistosomiasis"
+         ],
+         "low_conditions":[
+            "No exposure"
+         ]
+      },
+      {
+         "name":"Toxocara Serology (ELISA)",
+         "overview":"Diagnoses visceral larva migrans caused by dog/cat roundworm.",
+         "organ":"Liver, eyes, CNS",
+         "sample":"Serum",
+         "procedure":"ELISA",
+         "high_conditions":[
+            "Toxocariasis"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Echinococcus Serology",
+         "overview":"Supports diagnosis of hydatid disease.",
+         "organ":"Liver, lungs",
+         "sample":"Serum",
+         "procedure":"EIA or IHA",
+         "high_conditions":[
+            "Echinococcosis"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      },
+      {
+         "name":"Lyme Disease ELISA + Western Blot",
+         "overview":"Two-tier testing for Borrelia burgdorferi infection.",
+         "organ":"Skin, joints, CNS",
+         "sample":"Serum",
+         "procedure":"ELISA screening followed by IgM/IgG Western blot if positive/equivocal",
+         "high_conditions":[
+            "Lyme disease"
+         ],
+         "low_conditions":[
+            "No Lyme disease"
+         ]
+      },
+      {
+         "name":"Anaplasma phagocytophilum PCR",
+         "overview":"Detects Anaplasma DNA in human granulocytic anaplasmosis.",
+         "organ":"Blood",
+         "sample":"Whole blood",
+         "procedure":"PCR",
+         "high_conditions":[
+            "Anaplasmosis"
+         ],
+         "low_conditions":[
+            "Other tick-borne illness"
+         ]
+      },
+      {
+         "name":"Babesia PCR",
+         "overview":"Detects Babesia parasites in red blood cells.",
+         "organ":"Blood",
+         "sample":"Whole blood",
+         "procedure":"PCR or thin smear",
+         "high_conditions":[
+            "Babesiosis"
+         ],
+         "low_conditions":[
+            "Malaria or no infection"
+         ]
+      },
+      {
+         "name":"Bordetella pertussis PCR (Nasopharyngeal Swab)",
+         "overview":"Detects whooping cough in early stages.",
+         "organ":"Respiratory tract",
+         "sample":"NP swab",
+         "procedure":"PCR",
+         "high_conditions":[
+            "Pertussis"
+         ],
+         "low_conditions":[
+            "Viral cough"
+         ]
+      },
+      {
+         "name":"Respiratory Viral Panel (Multiplex PCR)",
+         "overview":"Simultaneous detection of influenza, RSV, adenovirus, etc.",
+         "organ":"Respiratory tract",
+         "sample":"NP swab, BAL",
+         "procedure":"Multiplex RT-PCR",
+         "high_conditions":[
+            "Influenza",
+            "RSV",
+            "hMPV",
+            "Parainfluenza"
+         ],
+         "low_conditions":[
+            "Bacterial pneumonia"
+         ]
+      },
+      {
+         "name":"Group B Streptococcus (GBS) Screening (Vaginal/Rectal Swab)",
+         "overview":"Prenatal screening to prevent neonatal GBS sepsis.",
+         "organ":"Vagina/rectum",
+         "sample":"Vaginal and rectal swabs",
+         "procedure":"Culture in selective broth",
+         "high_conditions":[
+            "GBS colonization"
+         ],
+         "low_conditions":[
+            "No GBS"
+         ]
+      },
+      {
+         "name":"Group B Strep PCR (Intrapartum)",
+         "overview":"Rapid intrapartum GBS detection if no prenatal screen.",
+         "organ":"Vagina/rectum",
+         "sample":"Vaginal/rectal swab",
+         "procedure":"PCR",
+         "high_conditions":[
+            "GBS colonization"
+         ],
+         "low_conditions":[
+            "No GBS"
+         ]
+      },
+      {
+         "name":"Clostridium tetani Toxin Neutralization",
+         "overview":"Confirms tetanus toxin production (rarely done clinically).",
+         "organ":"Wound",
+         "sample":"Wound exudate",
+         "procedure":"Mouse neutralization test",
+         "high_conditions":[
+            "Tetanus"
+         ],
+         "low_conditions":[
+            "Other wound infections"
+         ]
+      },
+      {
+         "name":"Corynebacterium diphtheriae Tox Gene PCR",
+         "overview":"Detects tox gene in diphtheria bacilli.",
+         "organ":"Pharynx",
+         "sample":"Throat swab",
+         "procedure":"PCR",
+         "high_conditions":[
+            "Toxigenic C. diphtheriae"
+         ],
+         "low_conditions":[
+            "Non-toxigenic strain"
+         ]
+      },
+      {
+         "name":"Listeria monocytogenes Culture",
+         "overview":"Detects Listeria in high-risk patients (pregnant, immunocompromised).",
+         "organ":"Blood, CSF, placenta",
+         "sample":"Blood, CSF",
+         "procedure":"Culture on selective media",
+         "high_conditions":[
+            "Listeriosis"
+         ],
+         "low_conditions":[
+            "No infection"
+         ]
+      }
+   ]
+}

@@ -1,0 +1,950 @@
+{
+   "Questions":[
+      {
+         "question":"Which liver enzyme is most specific for hepatocellular injury?",
+         "options":[
+            "A. Alkaline Phosphatase (ALP)",
+            "B. Aspartate Aminotransferase (AST)",
+            "C. Alanine Aminotransferase (ALT)",
+            "D. Gamma-Glutamyl Transferase (GGT)"
+         ],
+         "answer":"C. Alanine Aminotransferase (ALT)",
+         "explanation":"ALT is predominantly found in hepatocytes and is more liver-specific than AST, which is also present in heart, muscle, and kidney. Elevated ALT strongly suggests liver cell damage."
+      },
+      {
+         "question":"A patient with alcoholic liver disease typically shows which of the following patterns?",
+         "options":[
+            "A. ALT > AST",
+            "B. AST > ALT (ratio > 2:1)",
+            "C. Isolated ALP elevation",
+            "D. Normal transaminases"
+         ],
+         "answer":"B. AST > ALT (ratio > 2:1)",
+         "explanation":"In alcoholic liver disease, AST is usually 2–3 times higher than ALT due to mitochondrial damage, pyridoxine deficiency (impairs ALT synthesis), and alcohol-induced enzyme leakage."
+      },
+      {
+         "question":"Which test is the best indicator of chronic liver synthetic function?",
+         "options":[
+            "A. ALT",
+            "B. Bilirubin",
+            "C. Albumin",
+            "D. ALP"
+         ],
+         "answer":"C. Albumin",
+         "explanation":"Albumin is synthesized exclusively by the liver and has a long half-life (~20 days). Low levels reflect chronic liver dysfunction, such as cirrhosis, rather than acute injury."
+      },
+      {
+         "question":"Elevated ALP with normal GGT most likely indicates:",
+         "options":[
+            "A. Hepatitis",
+            "B. Biliary obstruction",
+            "C. Bone disease",
+            "D. Alcoholic liver disease"
+         ],
+         "answer":"C. Bone disease",
+         "explanation":"ALP is produced by both liver and bone. GGT is liver-specific. If ALP is high but GGT is normal, the source is likely bone (e.g., Paget’s disease, healing fracture)."
+      },
+      {
+         "question":"Which of the following is used to monitor anticoagulation therapy with warfarin?",
+         "options":[
+            "A. aPTT",
+            "B. PT only",
+            "C. INR",
+            "D. Thrombin time"
+         ],
+         "answer":"C. INR",
+         "explanation":"INR (International Normalized Ratio) standardizes PT results across labs and is the standard for monitoring warfarin therapy to ensure therapeutic anticoagulation."
+      },
+      {
+         "question":"A patient presents with jaundice, dark urine, and pale stools. Which bilirubin fraction is expected to be predominantly elevated?",
+         "options":[
+            "A. Indirect bilirubin",
+            "B. Unconjugated bilirubin",
+            "C. Direct bilirubin",
+            "D. Delta bilirubin"
+         ],
+         "answer":"C. Direct bilirubin",
+         "explanation":"Dark urine and pale stools suggest obstructive jaundice, where conjugated (direct) bilirubin backs up into blood and is excreted in urine, while bile flow to gut is blocked."
+      },
+      {
+         "question":"Which lipid parameter is the primary target for cardiovascular risk reduction?",
+         "options":[
+            "A. Total cholesterol",
+            "B. HDL cholesterol",
+            "C. Triglycerides",
+            "D. LDL cholesterol"
+         ],
+         "answer":"D. LDL cholesterol",
+         "explanation":"LDL cholesterol is the main carrier of cholesterol to arteries and is the primary target of lipid-lowering therapy (e.g., statins) to reduce atherosclerotic risk."
+      },
+      {
+         "question":"A fasting glucose of 130 mg/dL on two separate occasions is diagnostic of:",
+         "options":[
+            "A. Normal glucose tolerance",
+            "B. Prediabetes",
+            "C. Diabetes mellitus",
+            "D. Impaired fasting glucose"
+         ],
+         "answer":"C. Diabetes mellitus",
+         "explanation":"According to ADA criteria, fasting plasma glucose ≥126 mg/dL on two occasions confirms diabetes mellitus."
+      },
+      {
+         "question":"HbA1c reflects average blood glucose over the past:",
+         "options":[
+            "A. 2–3 days",
+            "B. 1–2 weeks",
+            "C. 2–3 weeks",
+            "D. 2–3 months"
+         ],
+         "answer":"D. 2–3 months",
+         "explanation":"HbA1c measures glycation of hemoglobin, which correlates with average blood glucose over the lifespan of red blood cells (~120 days), typically reflecting the past 2–3 months."
+      },
+      {
+         "question":"Which hormone is deficient in type 1 diabetes mellitus?",
+         "options":[
+            "A. Glucagon",
+            "B. Insulin",
+            "C. Cortisol",
+            "D. Growth hormone"
+         ],
+         "answer":"B. Insulin",
+         "explanation":"Type 1 diabetes results from autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency."
+      },
+      {
+         "question":"Which enzyme is more specific and remains elevated longer than amylase in acute pancreatitis?",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. Lipase",
+            "D. ALP"
+         ],
+         "answer":"C. Lipase",
+         "explanation":"Lipase is more specific to the pancreas and stays elevated for 8–14 days (vs. 3–5 days for amylase), making it superior for diagnosing pancreatitis, especially if presentation is delayed."
+      },
+      {
+         "question":"Hyponatremia with low serum osmolality and high urine osmolality suggests:",
+         "options":[
+            "A. Dehydration",
+            "B. SIADH",
+            "C. Diabetes insipidus",
+            "D. Hyperaldosteronism"
+         ],
+         "answer":"B. SIADH",
+         "explanation":"SIADH (Syndrome of Inappropriate ADH Secretion) causes water retention, leading to hyponatremia, low serum osmolality, and inappropriately concentrated urine (high urine osmolality)."
+      },
+      {
+         "question":"Which electrolyte abnormality is most dangerous in renal failure?",
+         "options":[
+            "A. Hypocalcemia",
+            "B. Hyperkalemia",
+            "C. Hyponatremia",
+            "D. Hypomagnesemia"
+         ],
+         "answer":"B. Hyperkalemia",
+         "explanation":"Hyperkalemia in renal failure can cause life-threatening cardiac arrhythmias due to impaired potassium excretion by the kidneys."
+      },
+      {
+         "question":"Low serum calcium with high phosphate and low PTH is characteristic of:",
+         "options":[
+            "A. Primary hyperparathyroidism",
+            "B. Vitamin D deficiency",
+            "C. Chronic kidney disease",
+            "D. Hypoparathyroidism"
+         ],
+         "answer":"D. Hypoparathyroidism",
+         "explanation":"Hypoparathyroidism leads to low PTH, which causes hypocalcemia and hyperphosphatemia due to reduced bone resorption and renal phosphate excretion."
+      },
+      {
+         "question":"Which vitamin deficiency causes megaloblastic anemia and elevated homocysteine but normal methylmalonic acid?",
+         "options":[
+            "A. Vitamin B12",
+            "B. Folate",
+            "C. Vitamin B6",
+            "D. Iron"
+         ],
+         "answer":"B. Folate",
+         "explanation":"Folate deficiency causes megaloblastic anemia and elevated homocysteine, but methylmalonic acid remains normal (unlike B12 deficiency, which elevates both)."
+      },
+      {
+         "question":"Elevated ferritin with high transferrin saturation is most suggestive of:",
+         "options":[
+            "A. Iron deficiency anemia",
+            "B. Anemia of chronic disease",
+            "C. Hemochromatosis",
+            "D. Thalassemia"
+         ],
+         "answer":"C. Hemochromatosis",
+         "explanation":"Hereditary hemochromatosis is characterized by increased iron absorption, leading to high ferritin and transferrin saturation (>45%)."
+      },
+      {
+         "question":"Which tumor marker is primarily used for monitoring ovarian cancer?",
+         "options":[
+            "A. CEA",
+            "B. AFP",
+            "C. CA-125",
+            "D. PSA"
+         ],
+         "answer":"C. CA-125",
+         "explanation":"CA-125 is the primary tumor marker for epithelial ovarian cancer, used for monitoring response to therapy and detecting recurrence."
+      },
+      {
+         "question":"A patient with gout is most likely to have elevated:",
+         "options":[
+            "A. Creatinine",
+            "B. Uric acid",
+            "C. Urea",
+            "D. Ammonia"
+         ],
+         "answer":"B. Uric acid",
+         "explanation":"Gout results from deposition of uric acid crystals in joints, often due to hyperuricemia (elevated serum uric acid)."
+      },
+      {
+         "question":"Which test is used to diagnose pheochromocytoma?",
+         "options":[
+            "A. Serum cortisol",
+            "B. Plasma metanephrines",
+            "C. TSH",
+            "D. Aldosterone"
+         ],
+         "answer":"B. Plasma metanephrines",
+         "explanation":"Plasma free metanephrines are the most sensitive test for pheochromocytoma, a catecholamine-secreting adrenal tumor."
+      },
+      {
+         "question":"Low TSH with high Free T4 indicates:",
+         "options":[
+            "A. Primary hypothyroidism",
+            "B. Secondary hypothyroidism",
+            "C. Primary hyperthyroidism",
+            "D. Euthyroid sick syndrome"
+         ],
+         "answer":"C. Primary hyperthyroidism",
+         "explanation":"In primary hyperthyroidism, the thyroid gland overproduces T4, which suppresses TSH via negative feedback."
+      },
+      {
+         "question":"Which of the following is a marker of bone formation?",
+         "options":[
+            "A. TRAP",
+            "B. CTX",
+            "C. Osteocalcin",
+            "D. Tartrate-resistant acid phosphatase"
+         ],
+         "answer":"C. Osteocalcin",
+         "explanation":"Osteocalcin is produced by osteoblasts and is a marker of bone formation. CTX and TRAP are markers of bone resorption."
+      },
+      {
+         "question":"A patient with suspected Wilson’s disease should be tested for:",
+         "options":[
+            "A. Ceruloplasmin",
+            "B. Ferritin",
+            "C. Transferrin",
+            "D. Haptoglobin"
+         ],
+         "answer":"A. Ceruloplasmin",
+         "explanation":"Wilson’s disease is caused by copper accumulation due to ATP7B mutation. Ceruloplasmin (a copper-carrying protein) is typically low (<20 mg/dL)."
+      },
+      {
+         "question":"Which condition causes a high anion gap metabolic acidosis?",
+         "options":[
+            "A. Diarrhea",
+            "B. Renal tubular acidosis",
+            "C. Diabetic ketoacidosis",
+            "D. Carbonic anhydrase inhibitors"
+         ],
+         "answer":"C. Diabetic ketoacidosis",
+         "explanation":"DKA produces ketoacids, which increase the anion gap. Diarrhea and RTA cause normal anion gap (hyperchloremic) acidosis."
+      },
+      {
+         "question":"The reference method for measuring glomerular filtration rate (GFR) is:",
+         "options":[
+            "A. Serum creatinine",
+            "B. Creatinine clearance",
+            "C. Inulin clearance",
+            "D. Cystatin C"
+         ],
+         "answer":"C. Inulin clearance",
+         "explanation":"Inulin is freely filtered and neither reabsorbed nor secreted, making its clearance the gold standard for GFR measurement."
+      },
+      {
+         "question":"Which enzyme is elevated in myocardial infarction and skeletal muscle injury?",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. ALP",
+            "D. GGT"
+         ],
+         "answer":"B. AST",
+         "explanation":"AST is found in liver, heart, and skeletal muscle. It rises in MI, hepatitis, and muscle trauma, making it less specific than ALT or troponin."
+      },
+      {
+         "question":"A patient with celiac disease is most likely to have positive:",
+         "options":[
+            "A. Anti-mitochondrial antibody",
+            "B. tTG-IgA",
+            "C. Anti-smooth muscle antibody",
+            "D. ANA"
+         ],
+         "answer":"B. tTG-IgA",
+         "explanation":"Tissue transglutaminase IgA (tTG-IgA) is the most sensitive and specific serologic test for celiac disease."
+      },
+      {
+         "question":"Which of the following is NOT part of the lipid profile?",
+         "options":[
+            "A. Total cholesterol",
+            "B. HDL",
+            "C. LDL",
+            "D. Homocysteine"
+         ],
+         "answer":"D. Homocysteine",
+         "explanation":"Homocysteine is an amino acid associated with cardiovascular risk but is not included in the standard lipid profile."
+      },
+      {
+         "question":"Elevated alkaline phosphatase in a pregnant woman is most likely due to:",
+         "options":[
+            "A. Liver disease",
+            "B. Bone disease",
+            "C. Placental ALP",
+            "D. Drug-induced cholestasis"
+         ],
+         "answer":"C. Placental ALP",
+         "explanation":"The placenta produces ALP during pregnancy, leading to benign elevation, especially in the third trimester."
+      },
+      {
+         "question":"Which test is used to confirm iron deficiency anemia?",
+         "options":[
+            "A. Serum iron",
+            "B. TIBC",
+            "C. Ferritin",
+            "D. Transferrin saturation"
+         ],
+         "answer":"C. Ferritin",
+         "explanation":"Ferritin is the best indicator of iron stores. Levels <15–30 ng/mL confirm iron deficiency, even before anemia develops."
+      },
+      {
+         "question":"A patient with Addison’s disease will have:",
+         "options":[
+            "A. High cortisol, high ACTH",
+            "B. Low cortisol, low ACTH",
+            "C. Low cortisol, high ACTH",
+            "D. High cortisol, low ACTH"
+         ],
+         "answer":"C. Low cortisol, high ACTH",
+         "explanation":"Addison’s disease (primary adrenal insufficiency) causes low cortisol, which triggers compensatory high ACTH from the pituitary."
+      },
+      {
+         "question":"Which of the following is a direct measure of kidney function?",
+         "options":[
+            "A. BUN",
+            "B. Serum creatinine",
+            "C. eGFR",
+            "D. Urine sodium"
+         ],
+         "answer":"C. eGFR",
+         "explanation":"eGFR (estimated glomerular filtration rate) is calculated from serum creatinine and provides the best overall assessment of kidney function."
+      },
+      {
+         "question":"High levels of which hormone cause acromegaly?",
+         "options":[
+            "A. TSH",
+            "B. ACTH",
+            "C. Growth hormone",
+            "D. Prolactin"
+         ],
+         "answer":"C. Growth hormone",
+         "explanation":"Acromegaly results from excess growth hormone (GH), usually due to a pituitary adenoma."
+      },
+      {
+         "question":"Which test is used to screen for gestational diabetes?",
+         "options":[
+            "A. Fasting glucose",
+            "B. HbA1c",
+            "C. Random glucose",
+            "D. 50g glucose challenge test"
+         ],
+         "answer":"D. 50g glucose challenge test",
+         "explanation":"The 50g non-fasting glucose challenge test is the initial screening for gestational diabetes between 24–28 weeks."
+      },
+      {
+         "question":"A patient with hemolytic anemia will likely have:",
+         "options":[
+            "A. High haptoglobin",
+            "B. Low LDH",
+            "C. High indirect bilirubin",
+            "D. Low reticulocyte count"
+         ],
+         "answer":"C. High indirect bilirubin",
+         "explanation":"Hemolysis increases heme breakdown, raising unconjugated (indirect) bilirubin. Haptoglobin is low, LDH is high, and reticulocytes are elevated."
+      },
+      {
+         "question":"Which vitamin is fat-soluble?",
+         "options":[
+            "A. Vitamin B12",
+            "B. Vitamin C",
+            "C. Vitamin D",
+            "D. Folate"
+         ],
+         "answer":"C. Vitamin D",
+         "explanation":"Fat-soluble vitamins include A, D, E, and K. Water-soluble vitamins include B-complex and C."
+      },
+      {
+         "question":"Low magnesium can cause which electrolyte disturbance?",
+         "options":[
+            "A. Hypercalcemia",
+            "B. Hypokalemia",
+            "C. Hypernatremia",
+            "D. Hypophosphatemia"
+         ],
+         "answer":"B. Hypokalemia",
+         "explanation":"Magnesium deficiency impairs potassium reabsorption in the kidneys, leading to refractory hypokalemia."
+      },
+      {
+         "question":"Which test is most sensitive for early detection of diabetic nephropathy?",
+         "options":[
+            "A. Serum creatinine",
+            "B. BUN",
+            "C. Urine albumin-to-creatinine ratio (UACR)",
+            "D. eGFR"
+         ],
+         "answer":"C. Urine albumin-to-creatinine ratio (UACR)",
+         "explanation":"Microalbuminuria (detected by UACR) is the earliest sign of diabetic kidney damage, occurring before changes in serum creatinine or eGFR."
+      },
+      {
+         "question":"A patient with primary hyperparathyroidism will have:",
+         "options":[
+            "A. Low calcium, high PTH",
+            "B. High calcium, low PTH",
+            "C. High calcium, high PTH",
+            "D. Low calcium, low PTH"
+         ],
+         "answer":"C. High calcium, high PTH",
+         "explanation":"In primary hyperparathyroidism, a parathyroid adenoma autonomously secretes PTH, causing hypercalcemia despite negative feedback."
+      },
+      {
+         "question":"Which enzyme is elevated in bone metastases and Paget’s disease?",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. ALP (bone-specific)",
+            "D. Amylase"
+         ],
+         "answer":"C. ALP (bone-specific)",
+         "explanation":"Bone-specific ALP is elevated in conditions with increased osteoblastic activity, such as Paget’s disease, healing fractures, and bone metastases."
+      },
+      {
+         "question":"The oral glucose tolerance test (OGTT) uses how many grams of glucose?",
+         "options":[
+            "A. 50g",
+            "B. 75g",
+            "C. 100g",
+            "D. 120g"
+         ],
+         "answer":"B. 75g",
+         "explanation":"The standard OGTT for diagnosing diabetes uses a 75g glucose load after an overnight fast."
+      },
+      {
+         "question":"Which of the following is a marker of oxidative stress?",
+         "options":[
+            "A. CRP",
+            "B. Malondialdehyde (MDA)",
+            "C. Albumin",
+            "D. Urea"
+         ],
+         "answer":"B. Malondialdehyde (MDA)",
+         "explanation":"MDA is a byproduct of lipid peroxidation and is used as a biomarker of oxidative stress."
+      },
+      {
+         "question":"A patient with suspected pheochromocytoma should avoid which medication before testing?",
+         "options":[
+            "A. Acetaminophen",
+            "B. Beta-blockers",
+            "C. Tricyclic antidepressants",
+            "D. ACE inhibitors"
+         ],
+         "answer":"C. Tricyclic antidepressants",
+         "explanation":"Tricyclic antidepressants can cause false-positive results in catecholamine/metanephrine tests and should be discontinued if possible."
+      },
+      {
+         "question":"Which test is used to diagnose hereditary hemochromatosis?",
+         "options":[
+            "A. Ferritin only",
+            "B. Transferrin saturation only",
+            "C. HFE gene mutation analysis",
+            "D. Serum iron only"
+         ],
+         "answer":"C. HFE gene mutation analysis",
+         "explanation":"Genetic testing for C282Y and H63D mutations in the HFE gene confirms hereditary hemochromatosis, especially in patients with elevated transferrin saturation and ferritin."
+      },
+      {
+         "question":"Elevated ammonia levels are most associated with:",
+         "options":[
+            "A. Liver failure",
+            "B. Kidney failure",
+            "C. Heart failure",
+            "D. Lung disease"
+         ],
+         "answer":"A. Liver failure",
+         "explanation":"The liver converts ammonia to urea. In liver failure, ammonia accumulates, potentially causing hepatic encephalopathy."
+      },
+      {
+         "question":"Which of the following is NOT a cause of hypercalcemia?",
+         "options":[
+            "A. Hyperparathyroidism",
+            "B. Malignancy",
+            "C. Sarcoidosis",
+            "D. Hypothyroidism"
+         ],
+         "answer":"D. Hypothyroidism",
+         "explanation":"Hypothyroidism does not cause hypercalcemia. Common causes include hyperparathyroidism, malignancy, and granulomatous diseases (e.g., sarcoidosis)."
+      },
+      {
+         "question":"A patient with Zollinger-Ellison syndrome will have elevated:",
+         "options":[
+            "A. Gastrin",
+            "B. Insulin",
+            "C. Glucagon",
+            "D. VIP"
+         ],
+         "answer":"A. Gastrin",
+         "explanation":"Zollinger-Ellison syndrome is caused by a gastrin-secreting tumor (gastrinoma), leading to severe peptic ulcer disease and diarrhea."
+      },
+      {
+         "question":"Which test is used to monitor heparin therapy?",
+         "options":[
+            "A. PT/INR",
+            "B. aPTT",
+            "C. Bleeding time",
+            "D. Platelet count"
+         ],
+         "answer":"B. aPTT",
+         "explanation":"Unfractionated heparin therapy is monitored using aPTT, which measures the intrinsic pathway of coagulation."
+      },
+      {
+         "question":"Low vitamin D levels can lead to:",
+         "options":[
+            "A. Hypercalcemia",
+            "B. Hypocalcemia",
+            "C. Hyperphosphatemia",
+            "D. Hypokalemia"
+         ],
+         "answer":"B. Hypocalcemia",
+         "explanation":"Vitamin D promotes intestinal calcium absorption. Deficiency leads to hypocalcemia and secondary hyperparathyroidism."
+      },
+      {
+         "question":"Which of the following is a tumor marker for prostate cancer?",
+         "options":[
+            "A. CEA",
+            "B. AFP",
+            "C. CA 19-9",
+            "D. PSA"
+         ],
+         "answer":"D. PSA",
+         "explanation":"Prostate-specific antigen (PSA) is used for screening, diagnosis, and monitoring of prostate cancer."
+      },
+      {
+         "question":"A patient with suspected carcinoid tumor should be tested for:",
+         "options":[
+            "A. Chromogranin A",
+            "B. Calcitonin",
+            "C. CEA",
+            "D. AFP"
+         ],
+         "answer":"A. Chromogranin A",
+         "explanation":"Chromogranin A is a general marker for neuroendocrine tumors, including carcinoid tumors."
+      },
+      {
+         "question":"Which condition causes a low anion gap?",
+         "options":[
+            "A. Diabetic ketoacidosis",
+            "B. Lactic acidosis",
+            "C. Multiple myeloma",
+            "D. Renal failure"
+         ],
+         "answer":"C. Multiple myeloma",
+         "explanation":"Multiple myeloma can cause a low anion gap due to paraprotein binding of cations or hypoalbuminemia."
+      },
+      {
+         "question":"The best test to assess iron status in a patient with chronic inflammation is:",
+         "options":[
+            "A. Serum iron",
+            "B. Ferritin",
+            "C. Transferrin saturation",
+            "D. Soluble transferrin receptor (sTfR)"
+         ],
+         "answer":"D. Soluble transferrin receptor (sTfR)",
+         "explanation":"Ferritin is an acute-phase reactant and can be falsely normal/high in inflammation. sTfR is not affected by inflammation and better reflects true iron status."
+      },
+      {
+         "question":"Which hormone is measured to assess adrenal cortex function?",
+         "options":[
+            "A. ACTH",
+            "B. Cortisol",
+            "C. Aldosterone",
+            "D. All of the above"
+         ],
+         "answer":"D. All of the above",
+         "explanation":"Cortisol reflects glucocorticoid function, aldosterone reflects mineralocorticoid function, and ACTH helps differentiate primary vs. secondary adrenal insufficiency."
+      },
+      {
+         "question":"A patient with suspected Cushing’s syndrome should undergo:",
+         "options":[
+            "A. Overnight dexamethasone suppression test",
+            "B. TSH test",
+            "C. Fasting glucose",
+            "D. Liver function tests"
+         ],
+         "answer":"A. Overnight dexamethasone suppression test",
+         "explanation":"The overnight low-dose dexamethasone suppression test is a first-line screening test for Cushing’s syndrome."
+      },
+      {
+         "question":"Which of the following is a marker of muscle damage?",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. CK",
+            "D. ALP"
+         ],
+         "answer":"C. CK",
+         "explanation":"Creatine kinase (CK) is released from damaged skeletal muscle, heart, and brain. It is the most sensitive marker for rhabdomyolysis."
+      },
+      {
+         "question":"Elevated homocysteine is associated with deficiency of which vitamins?",
+         "options":[
+            "A. B12 and folate",
+            "B. B6 and C",
+            "C. D and E",
+            "D. A and K"
+         ],
+         "answer":"A. B12 and folate",
+         "explanation":"Vitamins B12, B6, and folate are cofactors in homocysteine metabolism. Deficiencies lead to hyperhomocysteinemia, a risk factor for thrombosis."
+      },
+      {
+         "question":"Which test is used to diagnose autoimmune hepatitis?",
+         "options":[
+            "A. ANA and ASMA",
+            "B. Anti-TPO",
+            "C. Anti-CCP",
+            "D. RF"
+         ],
+         "answer":"A. ANA and ASMA",
+         "explanation":"Autoimmune hepatitis is associated with antinuclear antibodies (ANA) and anti-smooth muscle antibodies (ASMA)."
+      },
+      {
+         "question":"A patient with primary biliary cholangitis (PBC) will have elevated:",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. ALP and GGT",
+            "D. Bilirubin only"
+         ],
+         "answer":"C. ALP and GGT",
+         "explanation":"PBC is a cholestatic liver disease characterized by elevated ALP and GGT due to bile duct destruction."
+      },
+      {
+         "question":"Which of the following is a cause of macrocytic anemia with normal B12 and folate?",
+         "options":[
+            "A. Iron deficiency",
+            "B. Thalassemia",
+            "C. Hypothyroidism",
+            "D. Lead poisoning"
+         ],
+         "answer":"C. Hypothyroidism",
+         "explanation":"Hypothyroidism can cause macrocytic anemia independent of B12 or folate deficiency, possibly due to slowed erythropoiesis."
+      },
+      {
+         "question":"The test that best reflects average blood glucose in a patient with hemolytic anemia is:",
+         "options":[
+            "A. HbA1c",
+            "B. Fructosamine",
+            "C. Fasting glucose",
+            "D. OGTT"
+         ],
+         "answer":"B. Fructosamine",
+         "explanation":"HbA1c is unreliable in hemolytic anemia due to shortened RBC lifespan. Fructosamine reflects average glucose over the past 2–3 weeks and is not affected by RBC turnover."
+      },
+      {
+         "question":"Which electrolyte is primarily regulated by aldosterone?",
+         "options":[
+            "A. Sodium",
+            "B. Potassium",
+            "C. Calcium",
+            "D. Magnesium"
+         ],
+         "answer":"B. Potassium",
+         "explanation":"Aldosterone increases potassium excretion (and sodium reabsorption) in the distal tubule. Hyperaldosteronism causes hypokalemia."
+      },
+      {
+         "question":"A patient with suspected porphyria should have which test ordered?",
+         "options":[
+            "A. Urine porphobilinogen (PBG)",
+            "B. Serum iron",
+            "C. ALT",
+            "D. Amylase"
+         ],
+         "answer":"A. Urine porphobilinogen (PBG)",
+         "explanation":"During an acute porphyria attack, urine PBG is markedly elevated and is the key diagnostic test."
+      },
+      {
+         "question":"Which of the following is a marker of fibrosis in chronic liver disease?",
+         "options":[
+            "A. ALT",
+            "B. AST",
+            "C. APRI score",
+            "D. Bilirubin"
+         ],
+         "answer":"C. APRI score",
+         "explanation":"The APRI (AST to Platelet Ratio Index) is a non-invasive score used to assess liver fibrosis in hepatitis B and C."
+      },
+      {
+         "question":"Elevated calcitonin is diagnostic of:",
+         "options":[
+            "A. Medullary thyroid carcinoma",
+            "B. Papillary thyroid carcinoma",
+            "C. Graves’ disease",
+            "D. Hashimoto’s thyroiditis"
+         ],
+         "answer":"A. Medullary thyroid carcinoma",
+         "explanation":"Medullary thyroid carcinoma arises from parafollicular C cells that secrete calcitonin. Elevated levels are diagnostic."
+      },
+      {
+         "question":"Which test is used to diagnose congenital adrenal hyperplasia (21-hydroxylase deficiency)?",
+         "options":[
+            "A. Cortisol",
+            "B. 17-Hydroxyprogesterone",
+            "C. Aldosterone",
+            "D. DHEA-S"
+         ],
+         "answer":"B. 17-Hydroxyprogesterone",
+         "explanation":"21-hydroxylase deficiency blocks cortisol synthesis, causing buildup of 17-hydroxyprogesterone, which is the key diagnostic marker."
+      },
+      {
+         "question":"A patient with SIADH will have:",
+         "options":[
+            "A. High serum sodium, low urine sodium",
+            "B. Low serum sodium, high urine sodium",
+            "C. High serum sodium, high urine sodium",
+            "D. Low serum sodium, low urine sodium"
+         ],
+         "answer":"B. Low serum sodium, high urine sodium",
+         "explanation":"In SIADH, ADH causes water retention (dilutional hyponatremia) and continued sodium excretion, leading to inappropriately high urine sodium (>20 mmol/L)."
+      },
+      {
+         "question":"Which of the following is NOT a cause of elevated troponin?",
+         "options":[
+            "A. Myocardial infarction",
+            "B. Renal failure",
+            "C. Pulmonary embolism",
+            "D. Iron deficiency anemia"
+         ],
+         "answer":"D. Iron deficiency anemia",
+         "explanation":"Troponin can be elevated in MI, renal failure, PE, myocarditis, and sepsis, but not in uncomplicated iron deficiency anemia."
+      },
+      {
+         "question":"The best test to diagnose vitamin B12 deficiency is:",
+         "options":[
+            "A. Serum B12 level",
+            "B. Methylmalonic acid (MMA)",
+            "C. Homocysteine",
+            "D. Complete blood count"
+         ],
+         "answer":"B. Methylmalonic acid (MMA)",
+         "explanation":"MMA is elevated in B12 deficiency even when serum B12 is borderline. It is more sensitive and specific than serum B12 alone."
+      },
+      {
+         "question":"Which condition causes elevated alkaline phosphatase and gamma-glutamyl transferase?",
+         "options":[
+            "A. Paget’s disease",
+            "B. Healing fracture",
+            "C. Alcoholic hepatitis",
+            "D. Pregnancy"
+         ],
+         "answer":"C. Alcoholic hepatitis",
+         "explanation":"Alcoholic hepatitis causes cholestasis, elevating both ALP and GGT. Bone diseases elevate ALP but not GGT."
+      },
+      {
+         "question":"A patient with suspected pheochromocytoma has a normal plasma metanephrine. What is the next step?",
+         "options":[
+            "A. Repeat test",
+            "B. Order 24-hour urine metanephrines",
+            "C. Discharge",
+            "D. Order CT abdomen"
+         ],
+         "answer":"B. Order 24-hour urine metanephrines",
+         "explanation":"If plasma metanephrines are normal but clinical suspicion remains high, 24-hour urine metanephrines can be used as an alternative test."
+      },
+      {
+         "question":"Which of the following is a marker of bone resorption?",
+         "options":[
+            "A. Osteocalcin",
+            "B. Bone-specific ALP",
+            "C. C-telopeptide (CTX)",
+            "D. Procollagen type 1 N-terminal propeptide (P1NP)"
+         ],
+         "answer":"C. C-telopeptide (CTX)",
+         "explanation":"CTX is a breakdown product of type I collagen and is a specific marker of osteoclast-mediated bone resorption."
+      },
+      {
+         "question":"Elevated alpha-fetoprotein (AFP) in an adult is most concerning for:",
+         "options":[
+            "A. Colorectal cancer",
+            "B. Hepatocellular carcinoma",
+            "C. Prostate cancer",
+            "D. Breast cancer"
+         ],
+         "answer":"B. Hepatocellular carcinoma",
+         "explanation":"AFP is a tumor marker for hepatocellular carcinoma (HCC) and germ cell tumors. Levels >400 ng/mL in a cirrhotic patient are highly suggestive of HCC."
+      },
+      {
+         "question":"Which test is used to monitor treatment in a patient with medullary thyroid carcinoma?",
+         "options":[
+            "A. Thyroglobulin",
+            "B. Calcitonin",
+            "C. TSH",
+            "D. Anti-TPO"
+         ],
+         "answer":"B. Calcitonin",
+         "explanation":"Calcitonin levels correlate with tumor burden in medullary thyroid carcinoma and are used for monitoring after surgery."
+      },
+      {
+         "question":"A patient with suspected Wilson’s disease has low ceruloplasmin. What is the next best test?",
+         "options":[
+            "A. Serum copper",
+            "B. 24-hour urinary copper",
+            "C. Liver biopsy",
+            "D. Genetic testing"
+         ],
+         "answer":"B. 24-hour urinary copper",
+         "explanation":"24-hour urinary copper is elevated in Wilson’s disease (>100 µg/day) and is a key diagnostic test after low ceruloplasmin."
+      },
+      {
+         "question":"Which of the following is a cause of pseudohyponatremia?",
+         "options":[
+            "A. SIADH",
+            "B. Severe hyperlipidemia",
+            "C. Diuretic use",
+            "D. Adrenal insufficiency"
+         ],
+         "answer":"B. Severe hyperlipidemia",
+         "explanation":"Pseudohyponatremia occurs when high lipids or proteins displace plasma water, leading to falsely low sodium on older flame photometry methods (not on ion-selective electrodes)."
+      },
+      {
+         "question":"The test that best assesses exocrine pancreatic function is:",
+         "options":[
+            "A. Serum amylase",
+            "B. Serum lipase",
+            "C. Fecal elastase",
+            "D. Glucose tolerance test"
+         ],
+         "answer":"C. Fecal elastase",
+         "explanation":"Fecal elastase is a stable enzyme that reflects pancreatic exocrine function. Low levels indicate pancreatic insufficiency (e.g., in chronic pancreatitis or cystic fibrosis)."
+      },
+      {
+         "question":"Which hormone is elevated in polycystic ovary syndrome (PCOS)?",
+         "options":[
+            "A. Estrogen",
+            "B. Progesterone",
+            "C. Testosterone",
+            "D. Prolactin"
+         ],
+         "answer":"C. Testosterone",
+         "explanation":"PCOS is characterized by hyperandrogenism, with elevated testosterone causing hirsutism, acne, and anovulation."
+      },
+      {
+         "question":"A patient with suspected carcinoid syndrome has flushing and diarrhea. Which test is diagnostic?",
+         "options":[
+            "A. Serum serotonin",
+            "B. 24-hour urine 5-HIAA",
+            "C. Chromogranin A",
+            "D. CT scan"
+         ],
+         "answer":"B. 24-hour urine 5-HIAA",
+         "explanation":"5-HIAA (5-hydroxyindoleacetic acid) is the metabolite of serotonin. Elevated 24-hour urine 5-HIAA confirms carcinoid syndrome."
+      },
+      {
+         "question":"Which of the following is a marker of malnutrition?",
+         "options":[
+            "A. Prealbumin (transthyretin)",
+            "B. Albumin",
+            "C. Both A and B",
+            "D. Neither"
+         ],
+         "answer":"A. Prealbumin (transthyretin)",
+         "explanation":"Prealbumin has a short half-life (2–3 days) and is a sensitive marker of recent nutritional intake. Albumin (half-life 20 days) reflects chronic status and is affected by inflammation."
+      },
+      {
+         "question":"Elevated parathyroid hormone-related protein (PTHrP) is associated with:",
+         "options":[
+            "A. Primary hyperparathyroidism",
+            "B. Humoral hypercalcemia of malignancy",
+            "C. Sarcoidosis",
+            "D. Vitamin D intoxication"
+         ],
+         "answer":"B. Humoral hypercalcemia of malignancy",
+         "explanation":"Many cancers (e.g., lung, breast) secrete PTHrP, which mimics PTH action, causing hypercalcemia with low PTH."
+      },
+      {
+         "question":"Which test is used to diagnose insulinoma?",
+         "options":[
+            "A. Fasting glucose only",
+            "B. Insulin and C-peptide during hypoglycemia",
+            "C. HbA1c",
+            "D. Oral glucose tolerance test"
+         ],
+         "answer":"B. Insulin and C-peptide during hypoglycemia",
+         "explanation":"In insulinoma, hypoglycemia is accompanied by inappropriately high insulin and C-peptide levels, distinguishing it from factitious hypoglycemia (exogenous insulin)."
+      },
+      {
+         "question":"A patient with chronic kidney disease stage 4 will have an eGFR of:",
+         "options":[
+            "A. ≥90 mL/min",
+            "B. 60–89 mL/min",
+            "C. 30–59 mL/min",
+            "D. 15–29 mL/min"
+         ],
+         "answer":"D. 15–29 mL/min",
+         "explanation":"CKD stage 4 is defined as eGFR 15–29 mL/min/1.73m², indicating severe kidney dysfunction."
+      },
+      {
+         "question":"Which of the following is a cause of elevated creatine kinase (CK) without muscle symptoms?",
+         "options":[
+            "A. Intramuscular injection",
+            "B. Strenuous exercise",
+            "C. Hypothyroidism",
+            "D. All of the above"
+         ],
+         "answer":"D. All of the above",
+         "explanation":"CK can be elevated due to muscle trauma (injections, exercise), hypothyroidism, or even prolonged immobilization, even without overt symptoms."
+      },
+      {
+         "question":"The most common cause of hypercalcemia in outpatients is:",
+         "options":[
+            "A. Malignancy",
+            "B. Primary hyperparathyroidism",
+            "C. Sarcoidosis",
+            "D. Medications"
+         ],
+         "answer":"B. Primary hyperparathyroidism",
+         "explanation":"Primary hyperparathyroidism is the most common cause of hypercalcemia in ambulatory patients, while malignancy is more common in hospitalized patients."
+      },
+      {
+         "question":"Which test is used to diagnose hereditary spherocytosis?",
+         "options":[
+            "A. Osmotic fragility test",
+            "B. Coombs test",
+            "C. G6PD assay",
+            "D. Hemoglobin electrophoresis"
+         ],
+         "answer":"A. Osmotic fragility test",
+         "explanation":"Hereditary spherocytosis causes RBCs to be more fragile in hypotonic solutions, leading to increased osmotic fragility."
+      },
+      {
+         "question":"A patient with suspected lead poisoning should be tested for:",
+         "options":[
+            "A. Serum lead level",
+            "B. Zinc protoporphyrin",
+            "C. Both A and B",
+            "D. None of the above"
+         ],
+         "answer":"C. Both A and B",
+         "explanation":"Serum (blood) lead level is diagnostic. Zinc protoporphyrin is elevated in chronic lead exposure and iron deficiency."
+      }
+   ]
+}
